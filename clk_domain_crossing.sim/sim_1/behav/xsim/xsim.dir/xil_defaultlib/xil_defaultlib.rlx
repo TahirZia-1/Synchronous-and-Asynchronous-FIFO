@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/user/Desktop/Module2_DSD/clk_domain_crossing/clk_domain_crossing.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/user/Desktop/Module2_DSD/clk_domain_crossing/clk_domain_crossing.srcs/sim_1/new/tb_async_fifo.sv,1784291745,systemVerilog,,,,async_fifo_tb,,,,,,,,
+C:/Users/user/Desktop/Module2_DSD/clk_domain_crossing/clk_domain_crossing.srcs/sim_1/new/tb_sync.sv,1784291213,systemVerilog,,,,sync_fifo_tb,,,,,,,,
+C:/Users/user/Desktop/Module2_DSD/clk_domain_crossing/clk_domain_crossing.srcs/sources_1/new/async_fifo.sv,1784291726,systemVerilog,,C:/Users/user/Desktop/Module2_DSD/clk_domain_crossing/clk_domain_crossing.srcs/sim_1/new/tb_async_fifo.sv,,async_fifo,,,,,,,,
+C:/Users/user/Desktop/Module2_DSD/clk_domain_crossing/clk_domain_crossing.srcs/sources_1/new/sync_fifo.sv,1783946522,systemVerilog,,C:/Users/user/Desktop/Module2_DSD/clk_domain_crossing/clk_domain_crossing.srcs/sim_1/new/tb_sync.sv,,sync_fifo,,,,,,,,
